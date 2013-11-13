@@ -1,0 +1,21 @@
+:root {
+  var-highlight-color  : #fff;
+  var-shadow-color     : #000;
+
+  /* ---------- call to action colors ---------- */
+  var-text-color--cta: #fff;
+  var-background-color--cta: #288edf;
+
+  /* ---------- notification / error color ---------- */
+  var-notification-color: #ec514e;
+
+  /* ---------- dark colors ---------- */
+  var-text-color       : #c6c8c8;
+  var-background-color : #595b5b;
+  var-background--body : #4B4D4E;
+
+  /* ---------- light colors ---------- */
+  var-text-color      : #454545;
+  var-background-color: #e5e9e8;
+  var-background--body: #DFE2E2;
+}
